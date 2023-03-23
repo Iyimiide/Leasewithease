@@ -32,10 +32,10 @@ if(isset($_POST["submit"])){
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Registration</title>
+    <title>Create Your Lease With Ease Account</title>
   </head>
   <body>
-    <h2>Registration</h2>
+    <h2>Account Creation</h2>
     <form class="" action="" method="post" autocomplete="off">
       <label for="name">Name : </label>
       <input type="text" name="name" id = "name" required value=""> <br>
