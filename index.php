@@ -13,7 +13,7 @@ else{
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Index</title>
+    <title>Leasewithease</title>
   </head>
   <body>
     <h1>Welcome <?php echo $row["name"]; ?></h1>
