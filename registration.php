@@ -35,7 +35,7 @@ if(isset($_POST["submit"])){
     <title>Create Your Lease With Ease Account</title>
   </head>
   <body>
-    <h2>Account Creation</h2>
+    <h2>Create Your Lease With Ease Account</h2>
     <form class="" action="" method="post" autocomplete="off">
       <label for="name">Name : </label>
       <input type="text" name="name" id = "name" required value=""> <br>
